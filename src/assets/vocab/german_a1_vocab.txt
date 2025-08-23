@@ -1,0 +1,651 @@
+der Affe : monkey
+das Huhn : chicken
+gehen : to walk, to go
+ich : I
+du : you (informal)
+er : he
+sie : she
+es : it
+wir : we
+ihr : you (plural informal)
+Sie : you (formal)
+sein : to be
+haben : to have
+werden : to become
+können : can, to be able
+müssen : must, to have to
+sollen : should
+wollen : to want
+dürfen : may, to be allowed
+mögen : to like
+kommen : to come
+machen : to make, to do
+sagen : to say
+sprechen : to speak
+hören : to hear
+sehen : to see
+wissen : to know
+denken : to think
+glauben : to believe
+nehmen : to take
+geben : to give
+lassen : to let
+finden : to find
+bleiben : to stay
+stehen : to stand
+liegen : to lie
+sitzen : to sit
+laufen : to run
+fahren : to drive
+fliegen : to fly
+essen : to eat
+trinken : to drink
+schlafen : to sleep
+arbeiten : to work
+lernen : to learn
+studieren : to study
+spielen : to play
+kaufen : to buy
+verkaufen : to sell
+helfen : to help
+leben : to live
+sterben : to die
+lieben : to love
+hassen : to hate
+mögen : to like
+brauchen : to need
+verstehen : to understand
+beginnen : to begin
+aufhören : to stop
+der Mann : man
+die Frau : woman
+das Kind : child
+der Junge : boy
+das Mädchen : girl
+der Vater : father
+die Mutter : mother
+der Sohn : son
+die Tochter : daughter
+der Bruder : brother
+die Schwester : sister
+die Familie : family
+der Freund : friend (male)
+die Freundin : friend (female)
+der Mensch : person
+die Leute : people
+das Haus : house
+die Wohnung : apartment
+das Zimmer : room
+die Küche : kitchen
+das Badezimmer : bathroom
+das Schlafzimmer : bedroom
+das Wohnzimmer : living room
+die Tür : door
+das Fenster : window
+der Tisch : table
+der Stuhl : chair
+das Bett : bed
+der Schrank : closet
+die Stadt : city
+das Land : country
+das Dorf : village
+die Straße : street
+der Weg : way, path
+der Park : park
+die Schule : school
+die Universität : university
+das Krankenhaus : hospital
+der Bahnhof : train station
+der Flughafen : airport
+das Restaurant : restaurant
+das Café : café
+der Supermarkt : supermarket
+die Bank : bank
+die Post : post office
+die Kirche : church
+das Auto : car
+der Bus : bus
+die Bahn : train
+das Fahrrad : bicycle
+das Flugzeug : airplane
+das Schiff : ship
+das Buch : book
+die Zeitung : newspaper
+der Film : movie
+die Musik : music
+das Lied : song
+das Spiel : game
+der Sport : sport
+das Hobby : hobby
+die Arbeit : work, job
+der Beruf : profession
+der Lehrer : teacher (male)
+die Lehrerin : teacher (female)
+der Arzt : doctor (male)
+die Ärztin : doctor (female)
+der Student : student (male)
+die Studentin : student (female)
+das Geld : money
+der Euro : euro
+der Preis : price
+das Geschäft : store
+der Laden : shop
+das Essen : food
+das Brot : bread
+die Butter : butter
+der Käse : cheese
+die Wurst : sausage
+das Fleisch : meat
+der Fisch : fish
+das Gemüse : vegetables
+das Obst : fruit
+der Apfel : apple
+die Banane : banana
+die Orange : orange
+die Tomate : tomato
+die Kartoffel : potato
+der Salat : salad
+die Suppe : soup
+der Reis : rice
+die Nudeln : noodles
+die Milch : milk
+der Kaffee : coffee
+der Tee : tea
+das Wasser : water
+der Saft : juice
+das Bier : beer
+der Wein : wine
+das Glas : glass
+die Tasse : cup
+der Teller : plate
+der Löffel : spoon
+die Gabel : fork
+das Messer : knife
+das Frühstück : breakfast
+das Mittagessen : lunch
+das Abendessen : dinner
+das Wetter : weather
+die Sonne : sun
+der Regen : rain
+der Schnee : snow
+der Wind : wind
+warm : warm
+kalt : cold
+heiß : hot
+kühl : cool
+sonnig : sunny
+regnerisch : rainy
+windig : windy
+der Tag : day
+die Nacht : night
+der Morgen : morning
+der Mittag : noon
+der Abend : evening
+die Woche : week
+das Wochenende : weekend
+der Monat : month
+das Jahr : year
+die Zeit : time
+die Uhr : clock, hour
+die Minute : minute
+die Stunde : hour
+heute : today
+gestern : yesterday
+morgen : tomorrow
+jetzt : now
+später : later
+früh : early
+spät : late
+immer : always
+nie : never
+oft : often
+manchmal : sometimes
+hier : here
+da : there
+dort : there
+links : left
+rechts : right
+oben : above
+unten : below
+vorne : front
+hinten : back
+neben : next to
+zwischen : between
+in : in
+auf : on
+unter : under
+über : over
+vor : before, in front of
+hinter : behind
+bei : at, near
+mit : with
+ohne : without
+für : for
+gegen : against
+durch : through
+um : around, at (time)
+zu : to
+nach : after, to
+von : from, of
+aus : from, out of
+groß : big
+klein : small
+lang : long
+kurz : short
+breit : wide
+schmal : narrow
+hoch : high
+niedrig : low
+dick : thick, fat
+dünn : thin
+alt : old
+jung : young
+neu : new
+gut : good
+schlecht : bad
+schön : beautiful
+hässlich : ugly
+interessant : interesting
+langweilig : boring
+einfach : easy, simple
+schwer : difficult, heavy
+leicht : light, easy
+stark : strong
+schwach : weak
+schnell : fast
+langsam : slow
+laut : loud
+leise : quiet
+hell : bright
+dunkel : dark
+sauber : clean
+schmutzig : dirty
+voll : full
+leer : empty
+offen : open
+geschlossen : closed
+richtig : correct
+falsch : wrong
+wichtig : important
+unwichtig : unimportant
+möglich : possible
+unmöglich : impossible
+rot : red
+blau : blue
+grün : green
+gelb : yellow
+schwarz : black
+weiß : white
+grau : gray
+braun : brown
+orange : orange
+pink : pink
+lila : purple
+ein : one
+zwei : two
+drei : three
+vier : four
+fünf : five
+sechs : six
+sieben : seven
+acht : eight
+neun : nine
+zehn : ten
+elf : eleven
+zwölf : twelve
+dreizehn : thirteen
+vierzehn : fourteen
+fünfzehn : fifteen
+sechzehn : sixteen
+siebzehn : seventeen
+achtzehn : eighteen
+neunzehn : nineteen
+zwanzig : twenty
+dreißig : thirty
+vierzig : forty
+fünfzig : fifty
+sechzig : sixty
+siebzig : seventy
+achtzig : eighty
+neunzig : ninety
+hundert : hundred
+tausend : thousand
+erste : first
+zweite : second
+dritte : third
+letzte : last
+Montag : Monday
+Dienstag : Tuesday
+Mittwoch : Wednesday
+Donnerstag : Thursday
+Freitag : Friday
+Samstag : Saturday
+Sonntag : Sunday
+Januar : January
+Februar : February
+März : March
+April : April
+Mai : May
+Juni : June
+Juli : July
+August : August
+September : September
+Oktober : October
+November : November
+Dezember : December
+der Kopf : head
+das Gesicht : face
+das Auge : eye
+die Nase : nose
+der Mund : mouth
+das Ohr : ear
+das Haar : hair
+der Hals : neck
+der Arm : arm
+die Hand : hand
+der Finger : finger
+der Rücken : back
+der Bauch : stomach
+das Bein : leg
+der Fuß : foot
+das Herz : heart
+der Körper : body
+krank : sick
+gesund : healthy
+müde : tired
+glücklich : happy
+traurig : sad
+wütend : angry
+ruhig : calm
+nervös : nervous
+zufrieden : satisfied
+unzufrieden : dissatisfied
+stolz : proud
+peinlich : embarrassing
+lustig : funny
+ernst : serious
+freundlich : friendly
+unfreundlich : unfriendly
+höflich : polite
+unhöflich : rude
+nett : nice
+gemein : mean
+intelligent : intelligent
+dumm : stupid
+fleißig : diligent
+faul : lazy
+ehrlich : honest
+unehrlich : dishonest
+ordentlich : tidy
+unordentlich : messy
+und : and
+oder : or
+aber : but
+weil : because
+wenn : if, when
+dass : that
+als : as, when
+während : while
+obwohl : although
+damit : so that
+bevor : before
+nachdem : after
+bis : until
+seit : since
+trotz : despite
+außer : except
+statt : instead of
+wegen : because of
+ja : yes
+nein : no
+vielleicht : maybe
+sicher : sure
+bestimmt : certainly
+wahrscheinlich : probably
+hoffentlich : hopefully
+leider : unfortunately
+natürlich : naturally
+eigentlich : actually
+wirklich : really
+ziemlich : quite
+sehr : very
+ganz : quite, whole
+besonders : especially
+nur : only
+auch : also
+schon : already
+noch : still, yet
+nicht : not
+kein : no, not a
+niemand : nobody
+nichts : nothing
+alle : all
+jeder : every
+einige : some
+viele : many
+wenige : few
+mehr : more
+weniger : less
+genug : enough
+zu viel : too much
+zu wenig : too little
+etwa : about
+ungefähr : approximately
+fast : almost
+bald : soon
+sofort : immediately
+endlich : finally
+plötzlich : suddenly
+normalerweise : usually
+meistens : mostly
+selten : rarely
+das Problem : problem
+die Lösung : solution
+die Frage : question
+die Antwort : answer
+die Hilfe : help
+der Rat : advice
+die Information : information
+die Nachricht : message
+das Gespräch : conversation
+das Telefon : telephone
+das Handy : mobile phone
+der Computer : computer
+das Internet : internet
+die E-Mail : email
+der Brief : letter
+die Karte : card
+das Foto : photo
+das Bild : picture
+die Farbe : color
+die Größe : size
+die Form : shape
+das Beispiel : example
+der Grund : reason
+die Regel : rule
+die Ausnahme : exception
+der Fehler : mistake
+der Erfolg : success
+das Glück : luck
+das Pech : bad luck
+die Chance : chance
+das Risiko : risk
+die Gefahr : danger
+die Sicherheit : safety
+der Frieden : peace
+der Krieg : war
+die Politik : politics
+die Regierung : government
+das Gesetz : law
+das Recht : right
+die Pflicht : duty
+die Verantwortung : responsibility
+die Freiheit : freedom
+die Gleichheit : equality
+die Gerechtigkeit : justice
+die Kultur : culture
+die Tradition : tradition
+die Religion : religion
+die Sprache : language
+das Wort : word
+der Satz : sentence
+die Grammatik : grammar
+das Alphabet : alphabet
+der Buchstabe : letter
+die Zahl : number
+das Rechnen : arithmetic
+die Mathematik : mathematics
+die Wissenschaft : science
+die Physik : physics
+die Chemie : chemistry
+die Biologie : biology
+die Geschichte : history
+die Geografie : geography
+die Kunst : art
+die Malerei : painting
+die Skulptur : sculpture
+die Literatur : literature
+die Philosophie : philosophy
+die Psychologie : psychology
+die Medizin : medicine
+die Technik : technology
+die Erfindung : invention
+die Entdeckung : discovery
+das Experiment : experiment
+die Forschung : research
+der Fortschritt : progress
+die Entwicklung : development
+die Veränderung : change
+die Verbesserung : improvement
+das Wachstum : growth
+der Rückgang : decline
+die Zukunft : future
+die Vergangenheit : past
+die Gegenwart : present
+der Plan : plan
+das Ziel : goal
+der Traum : dream
+die Hoffnung : hope
+die Angst : fear
+die Sorge : worry
+das Vertrauen : trust
+die Liebe : love
+der Hass : hate
+die Freundschaft : friendship
+die Beziehung : relationship
+die Ehe : marriage
+die Hochzeit : wedding
+die Geburt : birth
+der Geburtstag : birthday
+der Tod : death
+das Leben : life
+die Erfahrung : experience
+die Erinnerung : memory
+das Gefühl : feeling
+die Emotion : emotion
+die Stimmung : mood
+der Charakter : character
+die Persönlichkeit : personality
+das Verhalten : behavior
+die Gewohnheit : habit
+die Eigenschaft : quality
+der Vorteil : advantage
+der Nachteil : disadvantage
+der Unterschied : difference
+die Ähnlichkeit : similarity
+der Vergleich : comparison
+die Wahl : choice
+die Entscheidung : decision
+die Meinung : opinion
+der Standpunkt : point of view
+die Diskussion : discussion
+der Streit : argument
+der Kompromiss : compromise
+die Vereinbarung : agreement
+der Vertrag : contract
+das Geschäft : business
+der Handel : trade
+der Verkauf : sale
+der Kauf : purchase
+der Kunde : customer
+der Verkäufer : seller
+der Chef : boss
+der Kollege : colleague
+die Firma : company
+das Unternehmen : enterprise
+die Fabrik : factory
+das Büro : office
+die Besprechung : meeting
+der Termin : appointment
+die Pause : break
+der Urlaub : vacation
+die Reise : trip
+der Ausflug : excursion
+der Besuch : visit
+das Hotel : hotel
+das Gepäck : luggage
+der Koffer : suitcase
+die Tasche : bag
+der Rucksack : backpack
+die Kamera : camera
+die Landkarte : map
+der Tourist : tourist
+das Souvenir : souvenir
+die Sehenswürdigkeit : sight
+das Museum : museum
+das Theater : theater
+das Kino : cinema
+das Konzert : concert
+die Party : party
+das Fest : festival
+die Feier : celebration
+der Geburtstag : birthday
+Weihnachten : Christmas
+Ostern : Easter
+Neujahr : New Year
+der Feiertag : holiday
+das Geschenk : gift
+die Überraschung : surprise
+die Einladung : invitation
+der Gast : guest
+der Gastgeber : host
+das Willkommen : welcome
+der Abschied : farewell
+die Begrüßung : greeting
+danke : thank you
+bitte : please
+entschuldigung : excuse me
+verzeihung : sorry
+tut mir leid : I'm sorry
+kein Problem : no problem
+gern geschehen : you're welcome
+auf Wiedersehen : goodbye
+bis bald : see you soon
+viel Glück : good luck
+gute Reise : have a good trip
+guten Appetit : enjoy your meal
+gesundheit : bless you
+herzlichen Glückwunsch : congratulations
+frohe Weihnachten : Merry Christmas
+frohes neues Jahr : Happy New Year
+alles Gute : all the best
+das Tier : animal
+der Hund : dog
+die Katze : cat
+das Pferd : horse
+die Kuh : cow
+das Schwein : pig
+das Schaf : sheep
+der Vogel : bird
+der Baum : tree
+die Blume : flower
+das Gras : grass
+der Berg : mountain
+der See : lake
+der Fluss : river
+das Meer : sea
+der Strand : beach
+der Himmel : sky
+die Wolke : cloud
+der Stern : star
+der Mond : moon
