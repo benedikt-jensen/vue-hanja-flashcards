@@ -1,0 +1,204 @@
+ich : I : ich : I am
+du : you : du : you are (informal)
+er : he : er : he is
+sie : she/they : sie : she is / they are
+es : it : es : it is
+wir : we : wir : we are
+ihr : you : ihr : you are (plural)
+sein : to be : sein : to be
+haben : to have : haben : to have
+werden : to become : werden : to become/will
+können : can/to be able : können : can/to be able
+müssen : must/to have to : müssen : must/to have to
+sollen : should/to be supposed to : sollen : should/to be supposed to
+wollen : to want : wollen : to want
+mögen : to like : mögen : to like
+gehen : to go : gehen : to go
+kommen : to come : kommen : to come
+machen : to do/make : machen : to do/make
+sagen : to say : sagen : to say
+sehen : to see : sehen : to see
+wissen : to know : wissen : to know (facts)
+kennen : to know : kennen : to know (people/places)
+sprechen : to speak : sprechen : to speak
+verstehen : to understand : verstehen : to understand
+hören : to hear : hören : to hear
+leben : to live : leben : to live
+arbeiten : to work : arbeiten : to work
+lernen : to learn : lernen : to learn
+studieren : to study : studieren : to study
+spielen : to play : spielen : to play
+kaufen : to buy : kaufen : to buy
+verkaufen : to sell : verkaufen : to sell
+essen : to eat : essen : to eat
+trinken : to drink : trinken : to drink
+schlafen : to sleep : schlafen : to sleep
+wohnen : to live/reside : wohnen : to live/reside
+fahren : to drive/go : fahren : to drive/go
+laufen : to run/walk : laufen : to run/walk
+der : the : der : the (masculine)
+die : the : die : the (feminine/plural)
+das : das : das : the (neuter)
+ein : a/an : ein : a/an (masculine/neuter)
+eine : a/an : eine : a/an (feminine)
+kein : no/not a : kein : no/not a
+nicht : not : nicht : not
+und : and : und : and
+oder : or : oder : or
+aber : but : aber : but
+auch : also : auch : also
+noch : still/yet : noch : still/yet
+schon : already : schon : already
+nur : only : nur : only
+sehr : very : sehr : very
+gut : good : gut : good
+schlecht : bad : schlecht : bad
+groß : big/tall : groß : big/tall
+klein : small : klein : small
+alt : old : alt : old
+jung : young : jung : young
+neu : new : neu : new
+schön : beautiful : schön : beautiful
+hässlich : ugly : hässlich : ugly
+lang : long : lang : long
+kurz : short : kurz : short
+hoch : high : hoch : high
+niedrig : low : niedrig : low
+schnell : fast : schnell : fast
+langsam : slow : langsam : slow
+warm : warm : warm : warm
+kalt : cold : kalt : cold
+heiß : hot : heiß : hot
+Haus : house : Haus : house
+Wohnung : apartment : Wohnung : apartment
+Zimmer : room : Zimmer : room
+Küche : kitchen : Küche : kitchen
+Bad : bathroom : Bad : bathroom
+Bett : bed : Bett : bed
+Tisch : table : Tisch : table
+Stuhl : chair : Stuhl : chair
+Auto : car : Auto : car
+Bus : bus : Bus : bus
+Zug : train : Zug : train
+Flugzeug : airplane : Flugzeug : airplane
+Straße : street : Straße : street
+Stadt : city : Stadt : city
+Land : country : Land : country
+Familie : family : Familie : family
+Mutter : mother : Mutter : mother
+Vater : father : Vater : father
+Kind : child : Kind : child
+Bruder : brother : Bruder : brother
+Schwester : sister : Schwester : sister
+Freund : friend : Freund : friend (male)
+Freundin : girlfriend/friend : Freundin : girlfriend/friend (female)
+Mann : man : Mann : man
+Frau : woman : Frau : woman
+Junge : boy : Junge : boy
+Mädchen : girl : Mädchen : girl
+Schule : school : Schule : school
+Lehrer : teacher : Lehrer : teacher (male)
+Lehrerin : teacher : Lehrerin : teacher (female)
+Student : student : Student : student (male)
+Studentin : student : Studentin : student (female)
+Buch : book : Buch : book
+Heft : notebook : Heft : notebook
+Stift : pen : Stift : pen
+Papier : paper : Papier : paper
+Essen : food : Essen : food
+Brot : bread : Brot : bread
+Fleisch : meat : Fleisch : meat
+Fisch : fish : Fisch : fish
+Gemüse : vegetables : Gemüse : vegetables
+Obst : fruit : Obst : fruit
+Apfel : apple : Apfel : apple
+Banane : banana : Banane : banana
+Wasser : water : Wasser : water
+Milch : milk : Milch : milk
+Kaffee : coffee : Kaffee : coffee
+Tee : tea : Tee : tea
+Bier : beer : Bier : beer
+Wein : wine : Wein : wine
+Zeit : time : Zeit : time
+Tag : day : Tag : day
+Woche : week : Woche : week
+Monat : month : Monat : month
+Jahr : year : Jahr : year
+Stunde : hour : Stunde : hour
+Minute : minute : Minute : minute
+heute : today : heute : today
+gestern : yesterday : gestern : yesterday
+morgen : tomorrow : morgen : tomorrow
+jetzt : now : jetzt : now
+früh : early : früh : early
+spät : late : spät : late
+Morgen : morning : Morgen : morning
+Mittag : noon : Mittag : noon
+Abend : evening : Abend : evening
+Nacht : night : Nacht : night
+Montag : Monday : Montag : Monday
+Dienstag : Tuesday : Dienstag : Tuesday
+Mittwoch : Wednesday : Mittwoch : Wednesday
+Donnerstag : Thursday : Donnerstag : Thursday
+Freitag : Friday : Freitag : Friday
+Samstag : Saturday : Samstag : Saturday
+Sonntag : Sunday : Sonntag : Sunday
+Geld : money : Geld : money
+Euro : euro : Euro : euro
+teuer : expensive : teuer : expensive
+billig : cheap : billig : cheap
+Arbeit : work : Arbeit : work
+Beruf : profession : Beruf : profession
+Arzt : doctor : Arzt : doctor (male)
+Ärztin : doctor : Ärztin : doctor (female)
+Verkäufer : salesperson : Verkäufer : salesperson (male)
+Verkäuferin : salesperson : Verkäuferin : salesperson (female)
+hier : here : hier : here
+dort : there : dort : there
+wo : where : wo : where
+wann : when : wann : when
+wie : how : wie : how
+was : what : was : what
+wer : who : wer : who
+warum : why : warum : why
+viel : much/many : viel : much/many
+wenig : little/few : wenig : little/few
+alle : all : alle : all
+einige : some : einige : some
+erste : first : erste : first
+letzte : last : letzte : last
+nächste : next : nächste : next
+richtig : right/correct : richtig : right/correct
+falsch : wrong : falsch : wrong
+möglich : possible : möglich : possible
+unmöglich : impossible : unmöglich : impossible
+wichtig : important : wichtig : important
+interessant : interesting : interessant : interesting
+langweilig : boring : langweilig : boring
+einfach : simple/easy : einfach : simple/easy
+schwer : difficult/heavy : schwer : difficult/heavy
+leicht : light/easy : leicht : light/easy
+fertig : finished/ready : fertig : finished/ready
+leer : empty : leer : empty
+voll : full : voll : full
+öffnen : to open : öffnen : to open
+schließen : to close : schließen : to close
+beginnen : to begin : beginnen : to begin
+aufhören : to stop : aufhören : to stop
+finden : to find : finden : to find
+suchen : to search : suchen : to search
+nehmen : to take : nehmen : to take
+geben : to give : geben : to give
+bekommen : to get/receive : bekommen : to get/receive
+bringen : to bring : bringen : to bring
+holen : to fetch : holen : to fetch
+zeigen : to show : zeigen : to show
+helfen : to help : helfen : to help
+fragen : to ask : fragen : to ask
+antworten : to answer : antworten : to answer
+vergessen : to forget : vergessen : to forget
+erinnern : to remember : erinnern : to remember
+denken : to think : denken : to think
+glauben : to believe : glauben : to believe
+hoffen : to hope : hoffen : to hope
+warten : to wait : warten : to wait

@@ -1,5 +1,22 @@
 <template>
-  <h2>Study Hanja</h2>
+  <h2>{{ currentLanguage === 'korean' ? 'Study Hanja' : 'Study German A1' }}</h2>
+  
+  <!-- Language Selection -->
+  <div style="margin-bottom: 12px">
+    <base-button
+      @click="switchLanguage('korean')"
+      style="margin-right: 4px"
+      :style="{ backgroundColor: currentLanguage === 'korean' ? '#007bff' : '' }"
+      >Korean Hanja</base-button
+    >
+    <base-button
+      @click="switchLanguage('german')"
+      :style="{ backgroundColor: currentLanguage === 'german' ? '#007bff' : '' }"
+      >German A1</base-button
+    >
+  </div>
+
+  <!-- Vocabulary Set Selection -->
   <div>
     <div style="margin-bottom: 4px">
       <base-button
@@ -20,6 +37,7 @@
       >
     </div>
   </div>
+  
   <div>
     <flash-card
       :word="vocab[currentVocabSet][currentVocabIndex]"
@@ -30,7 +48,7 @@
   </div>
   <div style="margin-top: 4px">
     <base-button @click="reverse = !reverse">{{
-      reverse ? "Meaning → Hanja" : "Hanja → Meaning"
+      getFlipButtonText()
     }}</base-button>
   </div>
 </template>
@@ -40,6 +58,7 @@ import FlashCard from "./components/FlashCard.vue";
 import arrays from "./util.js";
 // import basic_hanja from "./assets/vocab/basic_hanja.txt";
 import howtolearnkorean_vocab from "./assets/vocab/howtolearnkorean_com_vocab.txt";
+import german_a1_vocab from "./assets/vocab/german_a1_vocab.txt";
 // import hanja_junior from "./assets/vocab/hanja_junior_translation.txt";
 // import hanja_senior from "./assets/vocab/hanja_senior.txt";
 
@@ -55,6 +74,7 @@ export default {
   data() {
     return {
       vocab: [],
+      currentLanguage: 'korean', // 'korean' or 'german'
       currentVocabSet: 1,
       currentSubSet: [0, MIN_SET_SIZE],
       currentSubSetShuffled: arrays.range(0, MIN_SET_SIZE),
@@ -70,70 +90,7 @@ export default {
     this.chooseVocabSet(1);
   },
   async created() {
-    // const juniorTds = [];
-    // const seniorTds = [];
-
-    // const doc = document.createElement("html");
-    // doc.innerHTML = basic_hanja;
-    // const table = doc.querySelector(".datatable");
-    // const rows = table.querySelectorAll("tr");
-    // rows.forEach((row) => {
-    //   const data = row.querySelectorAll("td");
-    //   if (data.length > 0) {
-    //     juniorTds.push(data[0]);
-    //   }
-    //   if (data.length > 1) {
-    //     seniorTds.push(data[1]);
-    //   }
-    // });
-
-    // function parseWordData(td) {
-    //   const hanjas = [...td.querySelectorAll("a")].map((anchor) => [anchor.title]);
-    //   const wordDatas = td.innerHTML.split("•").map((data) => data.trim());
-    //   wordDatas.forEach((text, index) => {
-    //     if (text.trim() === '') return;
-    //     const meaning = text.substring(text.indexOf("(")+1, text.length-3);
-    //     const pronunciation = text.substring(text.length-2, text.length-1);
-    //     hanjas[index].push(meaning)
-    //     hanjas[index].push(pronunciation)
-    //   });
-    //   return hanjas;
-    // }
-
-    // const juniorHanjas = [];
-    // juniorTds.forEach((td) => {
-    //   juniorHanjas.push(...parseWordData(td));
-    // });
-    // console.log(juniorHanjas);
-
-    // const seniorHanjas = [];
-    // seniorTds.forEach((td) => {
-    //   seniorHanjas.push(...parseWordData(td));
-    // });
-    // console.log(seniorHanjas);
-
-    // let res = hanja_junior
-    //   .split("\n")
-    //   .map((line) => line.split(" : ")[0])
-    //   .join(" ");
-
-    // navigator.clipboard.writeText(res);
-
-    let vocabSetSize = 40;
-    for (let i = 0; i < 10; i++) {
-      let vocabSet = this.getVocabulary(
-        howtolearnkorean_vocab
-          .split("\n")
-          .slice(i * vocabSetSize, (i + 1) * vocabSetSize)
-          .map((line) => line.split(" : "))
-          .map(
-            (line) =>
-              line[0] + " (" + line[2] + " - " + line[1] + " - " + line[3] + ")"
-          )
-          .join("\n")
-      );
-      this.vocab.push(vocabSet);
-    }
+    this.loadVocabulary();
   },
   watch: {
     currentSubSetIndex(value) {
@@ -141,6 +98,61 @@ export default {
     },
   },
   methods: {
+    loadVocabulary() {
+      this.vocab = [];
+      
+      if (this.currentLanguage === 'korean') {
+        let vocabSetSize = 40;
+        for (let i = 0; i < 10; i++) {
+          let vocabSet = this.getVocabulary(
+            howtolearnkorean_vocab
+              .split("\n")
+              .slice(i * vocabSetSize, (i + 1) * vocabSetSize)
+              .map((line) => line.split(" : "))
+              .map(
+                (line) =>
+                  line[0] + " (" + line[2] + " - " + line[1] + " - " + line[3] + ")"
+              )
+              .join("\n")
+          );
+          this.vocab.push(vocabSet);
+        }
+      } else if (this.currentLanguage === 'german') {
+        let vocabSetSize = 40;
+        // Count total German vocabulary entries
+        const germanLines = german_a1_vocab.split("\n").filter(line => line.trim() !== "");
+        const totalSets = Math.ceil(germanLines.length / vocabSetSize);
+        
+        for (let i = 0; i < totalSets; i++) {
+          let vocabSet = this.getVocabulary(
+            germanLines
+              .slice(i * vocabSetSize, (i + 1) * vocabSetSize)
+              .map((line) => line.split(" : "))
+              .map(
+                (line) =>
+                  line[0] + " (" + line[3] + ")"
+              )
+              .join("\n")
+          );
+          this.vocab.push(vocabSet);
+        }
+      }
+    },
+
+    switchLanguage(language) {
+      this.currentLanguage = language;
+      this.loadVocabulary();
+      this.chooseVocabSet(1); // Reset to first set
+    },
+
+    getFlipButtonText() {
+      if (this.currentLanguage === 'korean') {
+        return this.reverse ? "Meaning → Hanja" : "Hanja → Meaning";
+      } else {
+        return this.reverse ? "English → German" : "German → English";
+      }
+    },
+
     chooseVocabSet(num) {
       this.currentVocabSet = num - 1;
       this.currentSubSet = [0, MIN_SET_SIZE];
