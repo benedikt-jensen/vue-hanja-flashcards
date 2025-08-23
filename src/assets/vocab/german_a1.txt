@@ -1,0 +1,116 @@
+der Affe : monkey
+das Huhn : chicken
+gehen : to walk, to go
+das Haus : house
+die Katze : cat
+der Hund : dog
+das Auto : car
+die Schule : school
+das Buch : book
+der Tisch : table
+der Stuhl : chair
+das Wasser : water
+das Brot : bread
+die Milch : milk
+der Apfel : apple
+die Banane : banana
+rot : red
+blau : blue
+grün : green
+gelb : yellow
+schwarz : black
+weiß : white
+groß : big
+klein : small
+alt : old
+neu : new
+gut : good
+schlecht : bad
+schön : beautiful
+hässlich : ugly
+ich : I
+du : you
+er : he
+sie : she
+es : it
+wir : we
+ihr : you (plural)
+sie : they
+haben : to have
+sein : to be
+kommen : to come
+sprechen : to speak
+lernen : to learn
+arbeiten : to work
+spielen : to play
+essen : to eat
+trinken : to drink
+schlafen : to sleep
+wohnen : to live
+kaufen : to buy
+verkaufen : to sell
+sehen : to see
+hören : to hear
+lesen : to read
+schreiben : to write
+fahren : to drive
+laufen : to run
+schwimmen : to swim
+tanzen : to dance
+singen : to sing
+kochen : to cook
+der Morgen : morning
+der Tag : day
+der Abend : evening
+die Nacht : night
+heute : today
+gestern : yesterday
+morgen : tomorrow
+die Woche : week
+der Monat : month
+das Jahr : year
+Montag : Monday
+Dienstag : Tuesday
+Mittwoch : Wednesday
+Donnerstag : Thursday
+Freitag : Friday
+Samstag : Saturday
+Sonntag : Sunday
+eins : one
+zwei : two
+drei : three
+vier : four
+fünf : five
+sechs : six
+sieben : seven
+acht : eight
+neun : nine
+zehn : ten
+der Vater : father
+die Mutter : mother
+der Bruder : brother
+die Schwester : sister
+das Kind : child
+der Mann : man
+die Frau : woman
+der Freund : friend
+die Familie : family
+das Geld : money
+die Arbeit : work
+der Beruf : job
+die Zeit : time
+der Ort : place
+das Land : country
+die Stadt : city
+das Dorf : village
+die Straße : street
+der Weg : way
+das Restaurant : restaurant
+das Hotel : hotel
+der Bahnhof : train station
+der Flughafen : airport
+das Krankenhaus : hospital
+die Schule : school
+die Universität : university
+der Laden : shop
+der Supermarkt : supermarket
