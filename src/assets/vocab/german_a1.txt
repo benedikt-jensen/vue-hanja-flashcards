@@ -1,0 +1,250 @@
+der Affe : monkey
+das Huhn : chicken
+gehen : to walk, to go
+hallo : hello
+guten Morgen : good morning
+guten Tag : good day
+guten Abend : good evening
+gute Nacht : good night
+auf Wiedersehen : goodbye
+tschüss : bye
+bitte : please
+danke : thank you
+entschuldigung : excuse me
+ja : yes
+nein : no
+ich : I
+du : you
+er : he
+sie : she
+es : it
+wir : we
+ihr : you (plural)
+sie : they
+sein : to be
+haben : to have
+machen : to make, to do
+kommen : to come
+sagen : to say
+können : can, to be able to
+müssen : must, to have to
+wollen : to want
+sollen : should, to be supposed to
+dürfen : may, to be allowed to
+werden : to become
+eins : one
+zwei : two
+drei : three
+vier : four
+fünf : five
+sechs : six
+sieben : seven
+acht : eight
+neun : nine
+zehn : ten
+elf : eleven
+zwölf : twelve
+dreizehn : thirteen
+vierzehn : fourteen
+fünfzehn : fifteen
+sechzehn : sixteen
+siebzehn : seventeen
+achtzehn : eighteen
+neunzehn : nineteen
+zwanzig : twenty
+dreißig : thirty
+vierzig : forty
+fünfzig : fifty
+sechzig : sixty
+siebzig : seventy
+achtzig : eighty
+neunzig : ninety
+hundert : hundred
+tausend : thousand
+der Montag : Monday
+der Dienstag : Tuesday
+der Mittwoch : Wednesday
+der Donnerstag : Thursday
+der Freitag : Friday
+der Samstag : Saturday
+der Sonntag : Sunday
+Januar : January
+Februar : February
+März : March
+April : April
+Mai : May
+Juni : June
+Juli : July
+August : August
+September : September
+Oktober : October
+November : November
+Dezember : December
+die Familie : family
+der Vater : father
+die Mutter : mother
+die Eltern : parents
+der Sohn : son
+die Tochter : daughter
+der Bruder : brother
+die Schwester : sister
+der Großvater : grandfather
+die Großmutter : grandmother
+der Onkel : uncle
+die Tante : aunt
+rot : red
+blau : blue
+grün : green
+gelb : yellow
+schwarz : black
+weiß : white
+grau : gray
+braun : brown
+orange : orange
+rosa : pink
+lila : purple
+der Kopf : head
+das Gesicht : face
+das Auge : eye
+die Nase : nose
+der Mund : mouth
+das Ohr : ear
+die Hand : hand
+der Arm : arm
+das Bein : leg
+der Fuß : foot
+das Haar : hair
+der Zahn : tooth
+das Brot : bread
+die Milch : milk
+das Wasser : water
+der Kaffee : coffee
+der Tee : tea
+der Saft : juice
+das Fleisch : meat
+der Fisch : fish
+das Gemüse : vegetables
+das Obst : fruit
+der Apfel : apple
+die Banane : banana
+die Orange : orange
+das Ei : egg
+der Käse : cheese
+die Butter : butter
+der Zucker : sugar
+das Salz : salt
+das Hemd : shirt
+die Hose : trousers
+das Kleid : dress
+der Rock : skirt
+die Jacke : jacket
+der Mantel : coat
+die Schuhe : shoes
+die Socken : socks
+der Hut : hat
+die Brille : glasses
+das Haus : house
+die Wohnung : apartment
+das Zimmer : room
+die Küche : kitchen
+das Badezimmer : bathroom
+das Schlafzimmer : bedroom
+das Wohnzimmer : living room
+der Tisch : table
+der Stuhl : chair
+das Bett : bed
+der Schrank : cupboard
+das Fenster : window
+die Tür : door
+das Auto : car
+der Bus : bus
+der Zug : train
+das Fahrrad : bicycle
+das Flugzeug : airplane
+die Schule : school
+die Arbeit : work
+der Arzt : doctor
+der Lehrer : teacher
+der Student : student
+das Buch : book
+der Stift : pen
+das Papier : paper
+das Geld : money
+die Zeit : time
+die Uhr : clock, watch
+heute : today
+gestern : yesterday
+morgen : tomorrow
+jetzt : now
+früh : early
+spät : late
+schnell : fast
+langsam : slow
+groß : big
+klein : small
+gut : good
+schlecht : bad
+schön : beautiful
+hässlich : ugly
+neu : new
+alt : old
+jung : young
+warm : warm
+kalt : cold
+heiß : hot
+süß : sweet
+sauer : sour
+laut : loud
+leise : quiet
+hier : here
+dort : there
+wo : where
+wann : when
+wie : how
+was : what
+wer : who
+warum : why
+und : and
+oder : or
+aber : but
+nicht : not
+sehr : very
+auch : also
+nur : only
+immer : always
+nie : never
+oft : often
+manchmal : sometimes
+viel : much, many
+wenig : little, few
+alle : all
+einige : some
+in : in
+auf : on
+unter : under
+über : over
+vor : before, in front of
+nach : after, to
+mit : with
+ohne : without
+für : for
+gegen : against
+essen : to eat
+trinken : to drink
+schlafen : to sleep
+wohnen : to live
+arbeiten : to work
+lernen : to learn
+sprechen : to speak
+hören : to hear
+sehen : to see
+kaufen : to buy
+verkaufen : to sell
+fahren : to drive
+laufen : to run
+stehen : to stand
+sitzen : to sit
+liegen : to lie
+lesen : to read
+schreiben : to write
+spielen : to play
