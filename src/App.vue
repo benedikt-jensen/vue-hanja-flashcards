@@ -3,7 +3,7 @@
   <div>
     <div style="margin-bottom: 4px">
       <base-button
-        v-for="i in 5"
+        v-for="i in 6"
         :key="'choose_' + i"
         @click="chooseVocabSet(i)"
         style="margin-right: 4px"
@@ -173,6 +173,10 @@ export default {
     // },
     storeData(guessedRight) {
       guessedRight == true;
+      // var arr = [1,2,3,4,5,6,7,8,9];
+      // for (let i = 0; i<hello; i++) {
+        
+      // }
       // if (guessedRight) {
       //   for (let i = 0; i < REPS; i++) {
       //     if (this.progressData[set][i].has(index)) {
