@@ -1,0 +1,992 @@
+der Affe : monkey
+das Huhn : chicken
+gehen : to walk, to go
+der Abend : evening
+das Abendessen : dinner
+aber : but
+abfahren : to depart
+die Abfahrt : departure
+abholen : to pick up
+abmachen : to arrange
+der Absender : sender
+acht : eight
+achtzehn : eighteen
+achtzig : eighty
+die Adresse : address
+alle : all
+allein : alone
+als : when, as
+also : so, therefore
+alt : old
+das Alter : age
+am : at the, on the
+die Ampel : traffic light
+an : at, on
+ander- : other
+anfangen : to begin
+angenehm : pleasant
+die Angst : fear
+ankommen : to arrive
+anmachen : to turn on
+anrufen : to call
+anschauen : to look at
+der Apfel : apple
+die Apotheke : pharmacy
+der April : April
+die Arbeit : work
+arbeiten : to work
+der Arbeitsplatz : workplace
+der Arzt : doctor
+auch : also
+auf : on, onto
+die Aufgabe : task
+aufhören : to stop
+aufmachen : to open
+aufräumen : to tidy up
+aufstehen : to get up
+das Auge : eye
+der August : August
+aus : from, out of
+die Ausbildung : education, training
+der Ausflug : excursion
+ausgehen : to go out
+aushelfen : to help out
+die Auskunft : information
+das Ausland : foreign country
+ausmachen : to turn off
+ausräumen : to clear out
+ausverkauft : sold out
+das Auto : car
+die Autobahn : highway
+der Automat : vending machine
+das Baby : baby
+backen : to bake
+das Bad : bathroom
+baden : to bathe
+der Bahnhof : train station
+bald : soon
+der Balkon : balcony
+der Ball : ball
+die Banane : banana
+die Bank : bank
+der Bauch : stomach
+bauen : to build
+der Bauer : farmer
+der Baum : tree
+bedeuten : to mean
+beginnen : to begin
+bei : at, with
+beide : both
+das Bein : leg
+das Beispiel : example
+bekommen : to get, receive
+beliebt : popular
+benutzen : to use
+das Benzin : gasoline
+bequem : comfortable
+der Berg : mountain
+der Beruf : profession
+berufstätig : employed
+berühmt : famous
+beschreiben : to describe
+besichtigen : to visit, see
+besonders : especially
+besser : better
+bestellen : to order
+bestimmt : certainly
+der Besuch : visit
+besuchen : to visit
+das Bett : bed
+bevor : before
+bezahlen : to pay
+die Bibliothek : library
+das Bier : beer
+das Bild : picture
+billig : cheap
+bis : until
+bitte : please
+bitten : to ask for
+blau : blue
+bleiben : to stay
+der Bleistift : pencil
+die Blume : flower
+die Bluse : blouse
+das Boot : boat
+böse : angry
+brauchen : to need
+braun : brown
+brechen : to break
+der Brief : letter
+bringen : to bring
+das Brot : bread
+das Brötchen : roll
+der Bruder : brother
+das Buch : book
+buchstabieren : to spell
+die Butter : butter
+das Café : café
+der Chef : boss
+da : there
+dabei : with it
+das Dach : roof
+dafür : for it
+damals : back then
+die Dame : lady
+damit : with it
+danach : after that
+daneben : next to it
+der Dank : thanks
+danke : thank you
+dann : then
+daran : on it
+darauf : on it
+darin : in it
+das : the, that
+dauern : to last
+davon : of it
+dazu : to it
+dein : your
+denken : to think
+denn : because
+der : the
+deshalb : therefore
+deutsch : German
+der Deutsche : German person
+Deutschland : Germany
+der Dezember : December
+der Dialog : dialogue
+dick : thick
+die : the
+der Dienstag : Tuesday
+dieser : this
+das Ding : thing
+direkt : direct
+doch : but, however
+der Doktor : doctor
+der Donnerstag : Thursday
+das Dorf : village
+dort : there
+die Dose : can
+draußen : outside
+drei : three
+dreißig : thirty
+dreizehn : thirteen
+dringend : urgent
+dritte : third
+drüben : over there
+drücken : to press
+dumm : stupid
+dunkel : dark
+dünn : thin
+durch : through
+dürfen : to be allowed to
+der Durst : thirst
+die Dusche : shower
+duschen : to shower
+eben : just
+die Ecke : corner
+ehrlich : honest
+das Ei : egg
+eigen : own
+eigentlich : actually
+die Eile : hurry
+ein : a, one
+der Eingang : entrance
+einkaufen : to shop
+einladen : to invite
+einmal : once
+einsteigen : to get in
+der Einwohner : inhabitant
+einzeln : individual
+das Eis : ice cream
+elegant : elegant
+die Eltern : parents
+empfehlen : to recommend
+das Ende : end
+endlich : finally
+eng : narrow
+entlang : along
+entschuldigen : to excuse
+entspannen : to relax
+er : he
+die Erdbeere : strawberry
+das Erdgeschoss : ground floor
+das Ereignis : event
+erfahren : to experience
+der Erfolg : success
+erinnern : to remember
+sich erkälten : to catch a cold
+erklären : to explain
+erlauben : to allow
+erreichen : to reach
+erst : first
+erwachsen : adult
+erzählen : to tell
+es : it
+essen : to eat
+das Essen : food
+etwa : about
+etwas : something
+euer : your
+der Euro : euro
+das Fach : subject
+fahren : to drive
+die Fahrkarte : ticket
+das Fahrrad : bicycle
+die Familie : family
+die Farbe : color
+fast : almost
+Februar : February
+fehlen : to be missing
+feiern : to celebrate
+das Fenster : window
+die Ferien : holidays
+fernsehen : to watch TV
+der Fernseher : television
+fertig : ready
+das Fest : festival
+finden : to find
+der Finger : finger
+die Firma : company
+der Fisch : fish
+fit : fit
+die Flasche : bottle
+das Fleisch : meat
+fliegen : to fly
+die Frage : question
+fragen : to ask
+französisch : French
+die Frau : woman
+frei : free
+der Freitag : Friday
+die Freizeit : free time
+fremd : foreign
+sich freuen : to be happy
+der Freund : friend
+freundlich : friendly
+frisch : fresh
+der Friseur : hairdresser
+früh : early
+der Frühling : spring
+das Frühstück : breakfast
+fühlen : to feel
+für : for
+der Fuß : foot
+der Fußball : football
+ganz : quite
+gar : at all
+der Garten : garden
+der Gast : guest
+das Gebäude : building
+geben : to give
+das Geburtstagskind : birthday child
+der Geburtstag : birthday
+gefährlich : dangerous
+gefallen : to like
+das Gefühl : feeling
+gegen : against
+das Gegenteil : opposite
+gehen : to go
+gehören : to belong
+gelb : yellow
+das Geld : money
+das Gemüse : vegetables
+genau : exactly
+genauso : just as
+genug : enough
+gerade : straight
+geradeaus : straight ahead
+gern : gladly
+das Geschäft : shop
+das Geschenk : gift
+die Geschichte : story
+geschieden : divorced
+das Gesicht : face
+das Gespräch : conversation
+gestern : yesterday
+gesund : healthy
+das Getränk : drink
+gewinnen : to win
+gewöhnlich : usually
+gibt : there is
+das Glas : glass
+glauben : to believe
+gleich : same
+das Glück : luck
+glücklich : happy
+das Gold : gold
+groß : big
+grün : green
+der Grund : reason
+die Gruppe : group
+der Gruß : greeting
+grüßen : to greet
+gucken : to look
+gut : good
+das Haar : hair
+haben : to have
+der Hafen : harbor
+halb : half
+die Hälfte : half
+hallo : hello
+der Hals : neck
+halten : to hold
+die Hand : hand
+das Handy : mobile phone
+hängen : to hang
+hart : hard
+hässlich : ugly
+häufig : often
+das Haus : house
+die Hausaufgabe : homework
+die Haut : skin
+heben : to lift
+das Heft : notebook
+heil : whole
+heiß : hot
+heißen : to be called
+helfen : to help
+hell : bright
+das Hemd : shirt
+der Herbst : autumn
+der Herr : mister
+das Herz : heart
+heute : today
+hier : here
+die Hilfe : help
+der Himmel : sky
+hin : there
+hinten : behind
+hinter : behind
+das Hobby : hobby
+hoch : high
+die Hochzeit : wedding
+hoffen : to hope
+höflich : polite
+holen : to fetch
+hören : to hear
+die Hose : trousers
+das Hotel : hotel
+hübsch : pretty
+der Hund : dog
+hundert : hundred
+der Hunger : hunger
+husten : to cough
+der Hut : hat
+ich : I
+die Idee : idea
+ihr : you, her
+immer : always
+in : in
+die Information : information
+innen : inside
+die Insel : island
+interessant : interesting
+das Internet : internet
+irgendwann : sometime
+irgendwo : somewhere
+sich irren : to be wrong
+ja : yes
+die Jacke : jacket
+das Jahr : year
+die Jahreszeit : season
+der Januar : January
+je : ever
+jede : each
+jeder : everyone
+jedoch : however
+jetzt : now
+der Job : job
+jung : young
+der Junge : boy
+der Juni : June
+der Kaffee : coffee
+kalt : cold
+die Kamera : camera
+kämpfen : to fight
+kann : can
+die Karte : card, map
+die Kartoffel : potato
+der Käse : cheese
+die Kasse : cash register
+die Katze : cat
+kaufen : to buy
+kein : no, none
+der Keller : cellar
+der Kellner : waiter
+kennen : to know
+das Kind : child
+das Kino : cinema
+die Kirche : church
+klar : clear
+die Klasse : class
+das Kleid : dress
+klein : small
+das Klima : climate
+klingeln : to ring
+klopfen : to knock
+klug : smart
+der Koch : cook
+kochen : to cook
+der Koffer : suitcase
+kommen : to come
+können : to be able to
+der Kontakt : contact
+der Kopf : head
+kosten : to cost
+krank : sick
+das Krankenhaus : hospital
+die Krawatte : tie
+die Kreditkarte : credit card
+der Krieg : war
+kriegen : to get
+die Küche : kitchen
+der Kuchen : cake
+der Kugelschreiber : pen
+kühl : cool
+der Kunde : customer
+die Kunst : art
+der Kurs : course
+kurz : short
+lächeln : to smile
+lachen : to laugh
+der Laden : shop
+die Lampe : lamp
+das Land : country
+lang : long
+langsam : slow
+langweilig : boring
+der Lärm : noise
+lassen : to let
+laufen : to run
+laut : loud
+das Leben : life
+leben : to live
+lecker : delicious
+ledig : single
+leer : empty
+legen : to put
+der Lehrer : teacher
+leicht : easy
+es tut mir leid : I'm sorry
+leider : unfortunately
+lernen : to learn
+lesen : to read
+letzte : last
+die Leute : people
+das Licht : light
+lieb : dear
+die Liebe : love
+lieben : to love
+lieber : rather
+liebsten : most preferably
+das Lied : song
+liegen : to lie
+lila : purple
+die Linie : line
+links : left
+die Liste : list
+der Liter : liter
+losgehen : to start off
+die Luft : air
+die Lust : desire
+lustig : funny
+machen : to make
+das Mädchen : girl
+der Mai : May
+das Mal : time
+man : one
+der Manager : manager
+manchmal : sometimes
+der Mann : man
+der Mantel : coat
+der Markt : market
+der März : March
+die Maschine : machine
+die Maus : mouse
+mehr : more
+mehrere : several
+mein : my
+meinen : to think
+die Meinung : opinion
+meist : mostly
+die Menge : amount
+der Mensch : person
+merken : to notice
+das Messer : knife
+der Meter : meter
+die Miete : rent
+die Milch : milk
+die Minute : minute
+mir : me
+mit : with
+mitbringen : to bring along
+mitkommen : to come along
+mitnehmen : to take along
+der Mittag : noon
+das Mittagessen : lunch
+die Mitte : middle
+mitteilen : to inform
+das Mittel : means
+der Mittwoch : Wednesday
+die Möbel : furniture
+möchten : would like
+modern : modern
+mögen : to like
+möglich : possible
+der Moment : moment
+der Monat : month
+der Montag : Monday
+morgen : tomorrow
+der Morgen : morning
+müde : tired
+die Musik : music
+müssen : to have to
+die Mutter : mother
+na : well
+nach : after, to
+der Nachbar : neighbor
+nachdenken : to think about
+der Nachmittag : afternoon
+die Nachrichten : news
+nächste : next
+die Nacht : night
+nah : near
+die Nähe : vicinity
+der Name : name
+nass : wet
+die Natur : nature
+natürlich : naturally
+neben : next to
+nehmen : to take
+nein : no
+nennen : to name
+nett : nice
+neu : new
+neun : nine
+neunzehn : nineteen
+neunzig : ninety
+nicht : not
+nichts : nothing
+nie : never
+niemand : nobody
+noch : still
+der Norden : north
+normal : normal
+der November : November
+die Nummer : number
+nur : only
+ob : whether
+oben : above
+oder : or
+offen : open
+öffnen : to open
+oft : often
+ohne : without
+das Ohr : ear
+der Oktober : October
+das Öl : oil
+der Onkel : uncle
+die Oper : opera
+orange : orange
+ordnen : to organize
+der Ort : place
+der Osten : east
+Ostern : Easter
+das Paar : pair
+packen : to pack
+das Paket : package
+das Papier : paper
+der Park : park
+parken : to park
+die Party : party
+der Pass : passport
+passen : to fit
+passieren : to happen
+die Pause : break
+das Pech : bad luck
+die Person : person
+persönlich : personally
+der Pfennig : penny
+das Pfund : pound
+die Phantasie : imagination
+das Photo : photo
+der Plan : plan
+planen : to plan
+der Platz : place
+plötzlich : suddenly
+die Politik : politics
+die Polizei : police
+die Post : mail
+das Praktikum : internship
+der Preis : price
+das Problem : problem
+das Programm : program
+prost : cheers
+prüfen : to check
+die Prüfung : exam
+der Pullover : sweater
+pünktlich : punctual
+putzen : to clean
+das Radio : radio
+der Rat : advice
+raten : to advise
+das Rathaus : town hall
+rauchen : to smoke
+der Raum : room
+rechnen : to calculate
+recht : right
+rechts : right
+reden : to talk
+der Regen : rain
+regnen : to rain
+reich : rich
+reichen : to be enough
+die Reise : trip
+reisen : to travel
+reiten : to ride
+rennen : to run
+reservieren : to reserve
+das Restaurant : restaurant
+richtig : correct
+die Richtung : direction
+riechen : to smell
+der Rock : skirt
+rot : red
+der Rücken : back
+der Rückfahrkarte : return ticket
+rufen : to call
+ruhig : quiet
+rund : round
+die Sache : thing
+der Saft : juice
+sagen : to say
+die Sahne : cream
+der Salat : salad
+das Salz : salt
+sammeln : to collect
+der Samstag : Saturday
+satt : full
+sauber : clean
+schade : pity
+schaffen : to manage
+schauen : to look
+der Scheck : check
+scheinen : to shine
+schenken : to give
+schicken : to send
+das Schiff : ship
+der Schinken : ham
+schlafen : to sleep
+das Schlafzimmer : bedroom
+schlagen : to hit
+schlecht : bad
+schließen : to close
+schlimm : bad
+der Schluss : end
+der Schlüssel : key
+schmecken : to taste
+der Schmerz : pain
+der Schmuck : jewelry
+der Schnee : snow
+schneiden : to cut
+schnell : fast
+schon : already
+schön : beautiful
+schreiben : to write
+der Schreibtisch : desk
+schreien : to scream
+der Schuh : shoe
+die Schule : school
+schwarz : black
+schweigen : to be silent
+schwer : heavy
+die Schwester : sister
+schwimmen : to swim
+sechs : six
+sechzehn : sixteen
+sechzig : sixty
+der See : lake
+sehen : to see
+sehr : very
+sein : to be
+seit : since
+die Seite : page
+die Sekunde : second
+selbst : self
+selten : seldom
+seltsam : strange
+das Semester : semester
+senden : to send
+der September : September
+setzen : to set
+sich : oneself
+sicher : safe
+sie : she, they
+sieben : seven
+siebzehn : seventeen
+siebzig : seventy
+singen : to sing
+sitzen : to sit
+so : so
+die Socke : sock
+sofort : immediately
+sogar : even
+der Sohn : son
+sollen : should
+der Sommer : summer
+sondern : but
+der Sonnabend : Saturday
+die Sonne : sun
+der Sonntag : Sunday
+sonst : otherwise
+die Sorge : worry
+sparen : to save
+der Spaß : fun
+spät : late
+spazieren gehen : to go for a walk
+die Speisekarte : menu
+der Spiegel : mirror
+das Spiel : game
+spielen : to play
+der Sport : sport
+die Sprache : language
+sprechen : to speak
+springen : to jump
+spülen : to wash dishes
+der Staat : state
+die Stadt : city
+stark : strong
+starten : to start
+statt : instead of
+stehen : to stand
+steigen : to climb
+stellen : to put
+sterben : to die
+der Stern : star
+still : quiet
+die Stimme : voice
+stimmen : to be correct
+der Stock : floor
+stolz : proud
+stören : to disturb
+stoßen : to push
+die Straße : street
+der Stress : stress
+das Stück : piece
+der Student : student
+studieren : to study
+der Stuhl : chair
+die Stunde : hour
+suchen : to search
+der Süden : south
+super : super
+der Supermarkt : supermarket
+die Suppe : soup
+süß : sweet
+das System : system
+die Tafel : blackboard
+der Tag : day
+täglich : daily
+tanken : to fill up
+die Tante : aunt
+tanzen : to dance
+die Tasche : bag
+die Tasse : cup
+tausend : thousand
+das Taxi : taxi
+der Tee : tea
+der Teil : part
+teilen : to share
+das Telefon : telephone
+telefonieren : to telephone
+der Teller : plate
+teuer : expensive
+das Theater : theater
+das Thema : topic
+tief : deep
+das Tier : animal
+der Tisch : table
+die Tochter : daughter
+der Tod : death
+toll : great
+die Tomate : tomato
+der Topf : pot
+tot : dead
+tragen : to carry
+sich trauen : to dare
+traurig : sad
+treffen : to meet
+treiben : to drive
+trennen : to separate
+die Treppe : stairs
+trinken : to drink
+trocken : dry
+trotzdem : nevertheless
+tschüs : bye
+tun : to do
+die Tür : door
+der Typ : guy
+über : over
+überall : everywhere
+überhaupt : at all
+überlegen : to think over
+übermorgen : day after tomorrow
+überraschen : to surprise
+übrigens : by the way
+die Uhr : clock
+um : around
+die Umgebung : surroundings
+umsteigen : to change
+umziehen : to move
+unbedingt : absolutely
+und : and
+der Unfall : accident
+ungefähr : approximately
+die Universität : university
+unser : our
+unten : below
+unter : under
+unterhalten : to entertain
+die Unterhaltung : entertainment
+der Unterricht : lesson
+unterrichten : to teach
+unterschreiben : to sign
+untersuchen : to examine
+unterwegs : on the way
+der Urlaub : vacation
+usw. : etc.
+der Vater : father
+sich verabreden : to make an appointment
+verändern : to change
+die Veranstaltung : event
+verbinden : to connect
+verboten : forbidden
+verdienen : to earn
+der Verein : club
+vergangen : past
+vergessen : to forget
+der Verkehr : traffic
+verkaufen : to sell
+der Verkäufer : salesperson
+verlassen : to leave
+sich verletzen : to get injured
+verlieren : to lose
+sich verlieben : to fall in love
+vermissen : to miss
+verschiedene : different
+versprechen : to promise
+verstehen : to understand
+versuchen : to try
+der Verwandte : relative
+verzeihen : to forgive
+viel : much
+viele : many
+vielleicht : maybe
+vier : four
+das Viertel : quarter
+vierzehn : fourteen
+vierzig : forty
+das Volk : people
+voll : full
+von : from
+vor : before
+vorbei : past
+sich vorstellen : to introduce
+die Vorstellung : performance
+wach : awake
+wachsen : to grow
+der Wagen : car
+wählen : to choose
+während : during
+wahrscheinlich : probably
+der Wald : forest
+die Wand : wall
+wann : when
+warm : warm
+warten : to wait
+warum : why
+was : what
+waschen : to wash
+das Wasser : water
+wechseln : to change
+wecken : to wake up
+der Weg : way
+wegen : because of
+weggehen : to go away
+wehtun : to hurt
+weich : soft
+Weihnachten : Christmas
+weil : because
+weinen : to cry
+weiß : white
+weit : far
+weiter : further
+welche : which
+die Welt : world
+wenig : little
+wenn : if
+wer : who
+werden : to become
+werfen : to throw
+das Wetter : weather
+wichtig : important
+wie : how
+wieder : again
+wiederholen : to repeat
+wiegen : to weigh
+willkommen : welcome
+der Wind : wind
+der Winter : winter
+wirklich : really
+wissen : to know
+wo : where
+die Woche : week
+das Wochenende : weekend
+woher : from where
+wohin : where to
+wohl : well
+wohnen : to live
+die Wohnung : apartment
+wollen : to want
+das Wort : word
+das Wörterbuch : dictionary
+wunderbar : wonderful
+wünschen : to wish
+die Wurst : sausage
+die Zahl : number
+zahlen : to pay
+zählen : to count
+der Zahn : tooth
+zehn : ten
+das Zeichen : sign
+zeichnen : to draw
+zeigen : to show
+die Zeit : time
+die Zeitung : newspaper
+das Zelt : tent
+das Zentrum : center
+zerstören : to destroy
+ziehen : to pull
+das Ziel : goal
+ziemlich : quite
+die Zigarette : cigarette
+das Zimmer : room
+zu : to
+der Zucker : sugar
+zuerst : first
+der Zug : train
+zuhören : to listen
+die Zukunft : future
+zuletzt : last
+zum : to the
+zur : to the
+zurück : back
+zurückfahren : to drive back
+zurückkommen : to come back
+zusammen : together
+zwar : indeed
+zwei : two
+zwanzig : twenty
+zwölf : twelve
+zwischen : between
